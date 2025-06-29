@@ -1,0 +1,34 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Dependency and virtualenv folders
+venv/
+.venv/
+ENV/
+env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE/project settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Railway / Deployment-specific
+*.sqlite3
+*.db
+
+# Node or JS build artifacts (if used)
+node_modules/
+dist/
+build/
